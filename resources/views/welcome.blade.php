@@ -43,9 +43,9 @@
       </ul>
 </div>
 <h3>Video Presentación</h3>
-<div class="container">
-    <div class="w-100">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ybBc-q64Ztw" frameborder="0" allowfullscreen></iframe>
+<div class="card mb-4 box-shadow">
+    <div class="w-50">
+    <iframe width="300" height="215" src="https://www.youtube.com/embed/ybBc-q64Ztw" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
 
