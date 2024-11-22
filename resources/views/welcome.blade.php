@@ -30,9 +30,18 @@
     </div>
 
     <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-      <h1 class="display-4">Precios</h1>
-      <p class="lead">Quickly build an effective pricing table for your potential customers with this Bootstrap example. It's built with default Bootstrap components and utilities with little customization.</p>
-    </div>
+      <h1 class="display-4">EtiquetasFlash</h1>
+      
+      <p class="lead">¡Automatiza tu negocio con nuestro software generador de etiquetas!</p>
+      <p class="lead">¿Cansado de perder tiempo creando etiquetas una por una? Nuestro software te permite diseñar y generar cientos de etiquetas personalizadas en cuestión de segundos.</p>
+      <p class="lead">Simplifica tus tareas diarias:</p>
+      <ul class="list-group">
+        <li class="list-group-item">Ahorra tiempo: Olvídate de las tediosas tareas de etiquetado manual.</li>
+        <li class="list-group-item">Reduce errores: Evita errores de tipeo y garantiza la precisión en tus precios.</li>
+        <li class="list-group-item">Organiza tu inventario: Mantén un registro detallado de todos tus productos.</li>
+        <li class="list-group-item">Mejora la imagen de tu negocio: Etiquetas profesionales y atractivas para tus productos.</li>
+      </ul>
+</div>
 
     <div class="container">
       <div class="card-deck mb-3 text-center">
@@ -115,7 +124,7 @@
               <li><a class="text-muted" href="#">Team</a></li>
               <li><a class="text-muted" href="#">Locations</a></li>
               <li><a class="text-muted" href="#">Privacy</a></li>
-              <li><a class="text-muted" href="#">Terms</a></li>
+              <li><a class="text-muted" href="#">Contacto: jordanalbarracin@gmail.com</a></li>
             </ul>
           </div>
         </div>
