@@ -44,12 +44,7 @@
       <p class="lead">¡Automatiza tu negocio con nuestro software generador de etiquetas!</p>
       <p class="lead">¿Cansado de perder tiempo creando etiquetas una por una? Nuestro software te permite diseñar y generar cientos de etiquetas personalizadas en cuestión de segundos.</p>
       <p class="lead">Simplifica tus tareas diarias:</p>
-      <ul class="list-group">
-        <li class="list-group-item">Ahorra tiempo: Olvídate de las tediosas tareas de etiquetado manual.</li>
-        <li class="list-group-item">Reduce errores: Evita errores de tipeo y garantiza la precisión en tus precios.</li>
-        <li class="list-group-item">Organiza tu inventario: Mantén un registro detallado de todos tus productos.</li>
-        <li class="list-group-item">Mejora la imagen de tu negocio: Etiquetas profesionales y atractivas para tus productos.</li>
-      </ul>
+   
 </div>
 
 <div class="container">
@@ -62,6 +57,14 @@
     </div>
   </div>
 </div>
+<div class="container">
+<ul class="list-group">
+        <li class="list-group-item">Ahorra tiempo: Olvídate de las tediosas tareas de etiquetado manual.</li>
+        <li class="list-group-item">Reduce errores: Evita errores de tipeo y garantiza la precisión en tus precios.</li>
+        <li class="list-group-item">Organiza tu inventario: Mantén un registro detallado de todos tus productos.</li>
+        <li class="list-group-item">Mejora la imagen de tu negocio: Etiquetas profesionales y atractivas para tus productos.</li>
+      </ul>
+    </div>
 
     <div class="container">
       <div class="card-deck mb-3 text-center">
