@@ -63,10 +63,12 @@
           <div class="card-body">
             <h1 class="card-title pricing-card-title">$0 <small class="text-muted">/Trial</small></h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>10 users included</li>
-              <li>2 GB of storage</li>
-              <li>Email support</li>
-              <li>Help center access</li>
+              <li>Acceso por 30 días</li>
+              <li>+ 50 modelos de etiquetas prediseñadas</li>
+              <li>Diseños mayorista y minorista</li>
+              <li>Soporte por email</li>
+              <li>Soporte por whatsapp<li>
+              <li>Pudes descargar la demo en el boto de descarga</li>
             </ul>
             <a href="https://nyc3.digitaloceanspaces.com/demoetiquetas/Mis%20Etiquetas%2028%20-%2010%20-24.rar" class="btn btn-lg btn-block btn-info">Descargar Demo</a>
           </div>
@@ -78,12 +80,18 @@
           <div class="card-body">
             <h1 class="card-title pricing-card-title">$ 17.500<small class="text-muted"></small></h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>20 users included</li>
-              <li>10 GB of storage</li>
-              <li>Priority email support</li>
-              <li>Help center access</li>
+              <li>Tiempo de uso ilimitado</li>
+              <li>+50 diseños de etiquetas</li>
+              <li>Modelos mayoristas y minoristas</li>
+              <li>Soporte telefónico</li>
+              <li>Soporte por whatsapp</li>
+              <li>Soporte por email</li>
+              <li>Una vez adquirido enviar comprobante por email:</li>
+              <li><strong>jordanalbarracin@gmail.com</strong></li>
+              <li>Recibirás el programa en tu email</li>
             </ul>
-            <button type="button" class="btn btn-lg btn-block btn-primary">Obtener</button>
+            <!--<button type="button" class="btn btn-lg btn-block btn-primary">Obtener</button>-->
+            <a href="https://mpago.la/2xYzKKD" class="btn btn-lg btn-block btn-primary">Comprar</a>
           </div>
         </div>
         <div class="card mb-4 box-shadow">
@@ -93,10 +101,12 @@
           <div class="card-body">
             <h1 class="card-title pricing-card-title">$ 8.500<small class="text-muted"></small></h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>30 users included</li>
-              <li>15 GB of storage</li>
-              <li>Phone and email support</li>
-              <li>Help center access</li>
+              <li>Mas de 50.0000 Articulos</li>
+              <li>Cada artículo posee su código de barras</li>
+              <li>Actualizaciones constantes</li>
+              <li>Una vez adquirido enviar comprobante por email:</li>
+              <li><strong>jordanalbarracin@gmail.com</strong></li>
+              <li>Recibirás la base de datos en tu email</li>
             </ul>
             <button type="button" class="btn btn-lg btn-block btn-primary">Comprar</button>
           </div>
@@ -109,7 +119,7 @@
             <img class="mb-2" src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-solid.svg" alt="" width="24" height="24">
             <small class="d-block mb-3 text-muted">&copy; 2017-2018</small>
           </div>
-          <div class="col-6 col-md">
+          <!--<div class="col-6 col-md">
             <h5>Features</h5>
             <ul class="list-unstyled text-small">
               <li><a class="text-muted" href="#">Cool stuff</a></li>
@@ -137,7 +147,7 @@
               <li><a class="text-muted" href="#">Privacy</a></li>
               <li><a class="text-muted" href="#">Contacto: jordanalbarracin@gmail.com</a></li>
             </ul>
-          </div>
+          </div>-->
         </div>
       </footer>
     </div>
