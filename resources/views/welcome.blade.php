@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="icon" href="https://getbootstrap.com/docs/4.0/assets/img/favicons/favicon.ico">
 
-    <title>Pricing example for Bootstrap</title>
+    <title>Etiquetas Flash</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/pricing/">
 
@@ -42,11 +42,16 @@
         <li class="list-group-item">Mejora la imagen de tu negocio: Etiquetas profesionales y atractivas para tus productos.</li>
       </ul>
 </div>
+
+<div class="container">
 <h3>Video Presentación</h3>
-<div class="card mb-4 box-shadow">
-    <div class="w-50">
+  <div class="row">
+    <div class="col-md-4 col-12 mx-auto">
+    
     <iframe width="300" height="215" src="https://www.youtube.com/embed/ybBc-q64Ztw" frameborder="0" allowfullscreen></iframe>
+
     </div>
+  </div>
 </div>
 
     <div class="container">
