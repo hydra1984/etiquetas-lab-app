@@ -77,10 +77,10 @@
             <ul class="list-unstyled mt-3 mb-4">
               <li>Acceso por 30 días</li>
               <li>+ 50 modelos de etiquetas prediseñadas</li>
-              <li>Diseños mayorista y minorista</li>
+              <li>Diseños mayoristas y minoristas</li>
               <li>Soporte por email</li>
               <li>Soporte por whatsapp<li>
-              <li>Pudes descargar la demo en el boto de descarga</li>
+              <li>Puedes descargar la demo desde el boton de descarga</li>
             </ul>
             <a href="https://nyc3.digitaloceanspaces.com/demoetiquetas/Mis%20Etiquetas%2028%20-%2010%20-24.rar" class="btn btn-lg btn-block btn-info">Descargar Demo</a>
           </div>
@@ -113,7 +113,7 @@
           <div class="card-body">
             <h1 class="card-title pricing-card-title">$ 8.500<small class="text-muted"></small></h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>Mas de 50.0000 Articulos</li>
+              <li>Mas de 50.0000 Articulos de Supermercados</li>
               <li>Cada artículo posee su código de barras</li>
               <li>Actualizaciones constantes</li>
               <li>Una vez adquirido enviar comprobante por email:</li>
