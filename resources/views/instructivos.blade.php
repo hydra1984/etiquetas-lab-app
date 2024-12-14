@@ -39,7 +39,7 @@
     </div>
 
     <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-      <h2 class="display-4">Instructivos para Confeccionar etiquetas</h2>
+      <h2>Instructivos para Confeccionar etiquetas</h2>
       
       <p class="lead">Primer contacto con el sistema</p>
       <p class="lead">Instalación del sistema</p>
